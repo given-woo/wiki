@@ -144,3 +144,33 @@ code {
   color: #ccc;
   cursor: help;
 }
+
+table {
+    width:100%;
+    overflow-y: scroll;
+    display: table;
+    border-collapse: collapse;
+}
+
+table thead {
+    width: 100%;
+    border-bottom: 1px solid #000;
+}
+
+table thead th {
+    padding: 5px 0px;
+}
+
+table tbody {
+    width: 100%;
+}
+
+table tbody tr td {
+    padding: 5px 0px;
+    text-align: center;
+    border-right: 1px solid #ccc;
+}
+
+table tbody tr td:last-child {
+    border: none;
+}

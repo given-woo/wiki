@@ -17,9 +17,10 @@ With a Single Perceptron, We can only classify with a single line.
 | 0       | 1       | 1      |
 | 1       | 1       | 0      |
 | 1       | 0       | 1       |
+
 *FIg 1. Input and Output of XOR*
 
-![[Pasted image 20230208140659.png]]
+<img src="assets/Pasted image 20230208140659.png">
 *Fig 2. Classification with a Single Perceptron*
 
 As the picture above, AND and OR operation can be classified with a single line, but XOR can't be classified. This was mathematically proved by Marvin Minsky and Seymor Paper.

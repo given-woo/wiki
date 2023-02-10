@@ -38,6 +38,8 @@
   <meta property="og:image" content="{{ site.url }}{{ page.image }}">
   {% endif %}
 
+  {% if page.use_math %} {% include mathjax_support.html %} {% endif %}
+
   <title>
     {% if page.id == "home" %}
       {{ site.title }}

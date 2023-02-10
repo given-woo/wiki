@@ -28,8 +28,9 @@ score = model.evaluate(x_data, y_data)
 print('Accuracy: ', score[1])
 ```
 
->[!quote] Result
->Accuracy:  0.5
+```
+Accuracy:  0.5
+```
 
 The Result shows that the XOR problem can't be solved with a single layer of perceptron.
 
@@ -56,8 +57,9 @@ score = model.evaluate(x_data, y_data)
 print('Accuracy: ', score[1])
 ```
 
->[!quote] Result
->Accuracy: 1.0
+```
+Accuracy: 1.0
+```
 
 ### c. Deep & Wide Neural Network
 
@@ -94,8 +96,9 @@ score = model.evaluate(x_data, y_data)
 print('Accuracy: ', score[1])
 ```
 
->[!quote]
->Accuracy:  1.0
+```
+Accuracy:  1.0
+```
 
 ## Reference
 - [lec9-2: 딥넷트웍 학습 시키기 (backpropagation) - YouTube](https://www.youtube.com/watch?v=573EZkzfnZ0&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=27&ab_channel=SungKim)
