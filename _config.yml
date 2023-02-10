@@ -49,3 +49,4 @@ higlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+asset_url: /assets
