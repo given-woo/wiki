@@ -18,7 +18,7 @@ With a Single Perceptron, We can only classify with a single line.
 | 1       | 1       | 0      |
 | 1       | 0       | 1       |
 
-*FIg 1. Input and Output of XOR*
+*Fig 1. Input and Output of XOR*
 
 <img src="assets/Pasted image 20230208140659.png">
 *Fig 2. Classification with a Single Perceptron*
