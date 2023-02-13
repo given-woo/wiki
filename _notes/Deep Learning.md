@@ -4,11 +4,11 @@ title: Deep Learning
 
 # Deep Learning
 
-Deep Learning is part of a broader family of machine learning methods based on neural networks. It can be supervised, semi-supervised or unsupervised.
+Deep Learning is part of a broader family of [[Machine Learning]] methods based on neural networks. It can be [[Supervised Learning|supervised]], semi-supervised or [[Unsupervised Learning|unsupervised]].
 
 It uses multiple layers to progressively extract higher-level features from the raw input. (While shallow learning use much less layers) For example, in image processing, lower layers may identify edges, while higher layers may identify the concepts relevant to a human such as digits or letters or faces. This makes it much more efficient than shallow learning.
 
-Multi-Layer of Perceptrons let it to solve the [[XOR Problem]]
+Multi-Layer of [[Perceptron]] let it to solve the [[XOR Problem]]
 
 ## Reference
 - [Deep learning - Wikipedia](https://en.wikipedia.org/wiki/Deep_learning)
