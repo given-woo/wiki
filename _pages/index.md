@@ -8,7 +8,7 @@ permalink: /
 # Welcome to WiWiKiKi 🧠
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Deep Learning]]</span> to get started on your exploration.
+  Take a look at <span style="font-weight: bold">[[Machine Learning]]</span> to get started on your exploration.
 </p>
 
 <strong>Recently updated notes</strong>
